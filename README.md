@@ -9,5 +9,5 @@
 # NLP
    * machine comprehension (https://arxiv.org/pdf/1705.02798v6.pdf)
    * Dual Ask-Answer Network for Machine Reading Comprehension (https://arxiv.org/abs/1809.01997)
-   * paraphrase of text generation with some given templates (http://aclweb.org/anthology/N18-1170)
+   * generate paraphrases(with change of syntactic structure but retaining semantic context) of a given text with given templates (http://aclweb.org/anthology/N18-1170)
    
