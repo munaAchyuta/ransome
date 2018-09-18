@@ -16,4 +16,4 @@
    * machine comprehnsion service.(ingest unstructured data and get structured representation).used R-CNN & YOLOv2. (https://arxiv.org/abs/1805.09687)
    
 # NN Models
-   * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf)
+   * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
