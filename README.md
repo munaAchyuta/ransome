@@ -17,3 +17,4 @@
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
+   * tutorial on generative adversarial networks.(blog - http://kvfrans.com/generative-adversial-networks-explained/)
