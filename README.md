@@ -15,3 +15,5 @@
    * generate paraphrases(with change of syntactic structure but retaining semantic context) of a given text with given templates (http://aclweb.org/anthology/N18-1170)
    * machine comprehnsion service.(ingest unstructured data and get structured representation).used R-CNN & YOLOv2. (https://arxiv.org/abs/1805.09687)
    
+# NN Models
+   * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf)
