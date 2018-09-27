@@ -5,6 +5,7 @@
    * to execute notebooks from github online, replace github.com with colab.research.google.com/github on notebook url.
    * to get trained model : https://worksheets.codalab.org/worksheets/0xfa2548e70c2540ca8c2d26d7dd402f7f/
    * search google data : https://toolbox.google.com/datasetsearch
+   * leader board for machine comprehension on squad data set.(https://rajpurkar.github.io/SQuAD-explorer/)
 
 # NLP (Basic Features)
    * get basic featureset using stanford corenlp. https://github.com/Lynten/stanford-corenlp
