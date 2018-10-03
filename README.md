@@ -21,3 +21,4 @@
    * tutorial on generative adversarial networks.(blog - http://kvfrans.com/generative-adversial-networks-explained/)
    * object localization & detection.(https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
    * incremental learning.(https://arxiv.org/pdf/1805.08709v1.pdf)
+   * buiding a basic neural conversational agent or chatbot.(https://blog.statsbot.co/chatbots-machine-learning-e83698b1a91e)
