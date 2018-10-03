@@ -20,3 +20,4 @@
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
    * tutorial on generative adversarial networks.(blog - http://kvfrans.com/generative-adversial-networks-explained/)
    * object localization & detection.(https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
+   * incremental learning.(https://arxiv.org/pdf/1805.08709v1.pdf)
