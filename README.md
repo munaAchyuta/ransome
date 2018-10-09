@@ -7,6 +7,9 @@
    * search google data : https://toolbox.google.com/datasetsearch
    * leader board for machine comprehension on squad data set.(https://rajpurkar.github.io/SQuAD-explorer/)
 
+## Python
+   * Deploy flask app with nginx using gunicorn and supervisor.(https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
+
 # NLP (Basic Features)
    * get basic featureset using stanford corenlp. https://github.com/Lynten/stanford-corenlp
 
