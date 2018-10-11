@@ -25,6 +25,7 @@
    * tutorial on generative adversarial networks.(blog - http://kvfrans.com/generative-adversial-networks-explained/)
    * object localization & detection.(https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
    * incremental learning.(https://arxiv.org/pdf/1805.08709v1.pdf)
+   * transfer learning.(https://arxiv.org/pdf/1707.01066v1.pdf)
    * buiding a basic neural conversational agent or chatbot.(https://blog.statsbot.co/chatbots-machine-learning-e83698b1a91e)
    * A practical approach to dialogue response generation in closed domains.(https://arxiv.org/pdf/1703.09439v1.pdf)
    * seq2sq model for building conversational chatbot with using facebook messanger.(https://github.com/adeshpande3/Facebook-Messenger-Bot/blob/master/README.md)(https://moz.com/blog/chat-bot)(https://www.comm100.com/blog/journey-mapping-chatbot-decision-tree-from-scratch.html)(https://towardsdatascience.com/architecture-overview-of-a-conversational-ai-chat-bot-4ef3dfefd52e)
