@@ -32,3 +32,4 @@
    * A practical approach to dialogue response generation in closed domains.(https://arxiv.org/pdf/1703.09439v1.pdf)
    * seq2sq model for building conversational chatbot with using facebook messanger.(https://github.com/adeshpande3/Facebook-Messenger-Bot/blob/master/README.md)(https://moz.com/blog/chat-bot)(https://www.comm100.com/blog/journey-mapping-chatbot-decision-tree-from-scratch.html)(https://towardsdatascience.com/architecture-overview-of-a-conversational-ai-chat-bot-4ef3dfefd52e)
    * deep dialogue tutorial.(https://www.csie.ntu.edu.tw/~yvchen/doc/DeepDialogue_Tutorial.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+   * cheat sheet : deep learning losses & optimizers.(https://www.hergertarian.com/cheat-sheet-deep-learning-losses-optimizers)
