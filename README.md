@@ -8,6 +8,7 @@
    * leader board for machine comprehension on squad data set.(https://rajpurkar.github.io/SQuAD-explorer/)
    * Career advice for recent Computer Science graduates.(https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html)
    * Introduction to Machine Learning for Coders: Launch.(http://www.fast.ai/2018/09/26/ml-launch/)
+   * blog on progress of NLP so far.(http://blog.aylien.com/acl-2018-highlights-understanding-representations-and-evaluation-in-more-challenging-settings/)
 
 ## Python
    * Deploy flask app with nginx using gunicorn and supervisor.(https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
