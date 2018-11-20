@@ -12,6 +12,11 @@
    * Ml - shaoanlu. (https://shaoanlu.wordpress.com/2017/03/06/floydhub/)
    * understand DL basics using NLP domain.(http://nlp.seas.harvard.edu/2018/04/03/attention.html)
    * Data Science discussion forum (always updated).(https://www.researchgate.net/post/What_are_the_ML_methods_that_are_suitable_for_multi-label_classification_how_can_we_apply_these_methods_using_WEKA)
+   
+# website/blog by individuals on ML/NLP/DL works.
+   * http://ttic.uchicago.edu/~kgimpel/papers.html
+   * http://www.cs.cmu.edu/~jwieting/
+   * https://people.cs.umass.edu/~miyyer/
 
 ## Python
    * Deploy flask app with nginx using gunicorn and supervisor.(https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
