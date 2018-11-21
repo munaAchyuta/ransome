@@ -12,6 +12,9 @@
    * Ml - shaoanlu. (https://shaoanlu.wordpress.com/2017/03/06/floydhub/)
    * understand DL basics using NLP domain.(http://nlp.seas.harvard.edu/2018/04/03/attention.html)
    * Data Science discussion forum (always updated).(https://www.researchgate.net/post/What_are_the_ML_methods_that_are_suitable_for_multi-label_classification_how_can_we_apply_these_methods_using_WEKA)
+   * to download file from googleDrive use below commands.
+        wget https://raw.githubusercontent.com/pavanjadhaw/gdown.pl/master/gdown.pl && chmod u+x gdown.pl
+        ./gdown.pl "link to file" file.mp4
    
 # website/blog by individuals on ML/NLP/DL works.
    * http://ttic.uchicago.edu/~kgimpel/papers.html
