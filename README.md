@@ -32,6 +32,7 @@
    * text mining resource.(http://nitin-panwar.github.io/)
    * tracking NLP progress. nlpprogress.com
    * machine translation corpus.(http://www.manythings.org/anki/) (http://www.statmt.org/wmt18/)
+   * Text to RDF. (https://tw.rpi.edu/web/project/gcis-imsap/NcaTxt2Rdf)(https://wiki.dbpedia.org/textext)(http://lup.lub.lu.se/search/ws/files/3053000/3191702.pdf)(https://lawlesst.github.io/notebook/rdflib-stardog.html)
 
 # NLP (Deep Learning)
    * machine comprehension (codes are available in github) (https://arxiv.org/pdf/1705.02798v6.pdf)(https://arxiv.org/pdf/1712.03556v2.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(http://www.aclweb.org/anthology/P18-1158)(https://arxiv.org/pdf/1611.01603v6.pdf)
@@ -49,6 +50,7 @@
    * transfer learning.(https://arxiv.org/pdf/1707.01066v1.pdf)
    * buiding a basic neural conversational agent or chatbot.(https://blog.statsbot.co/chatbots-machine-learning-e83698b1a91e)(https://arxiv.org/pdf/1711.09684.pdf)(https://www.cs.mcgill.ca/~rlowe1/problem_with_neural_chatbots.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
    * A practical approach to dialogue response generation in closed domains.(https://arxiv.org/pdf/1703.09439v1.pdf)
+   * seq2seq model.(https://arxiv.org/pdf/1409.3215.pdf)
    * seq2sq model for building conversational chatbot with using facebook messanger.(https://github.com/adeshpande3/Facebook-Messenger-Bot/blob/master/README.md)(https://moz.com/blog/chat-bot)(https://www.comm100.com/blog/journey-mapping-chatbot-decision-tree-from-scratch.html)(https://towardsdatascience.com/architecture-overview-of-a-conversational-ai-chat-bot-4ef3dfefd52e)(https://haptik.ai/tech/neural-conversation-model-production/)
    * deep dialogue tutorial.(https://www.csie.ntu.edu.tw/~yvchen/doc/DeepDialogue_Tutorial.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
    * cheat sheet : deep learning losses & optimizers.(https://www.hergertarian.com/cheat-sheet-deep-learning-losses-optimizers)
