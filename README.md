@@ -31,6 +31,7 @@
    * get basic featureset using stanford corenlp. https://github.com/Lynten/stanford-corenlp
    * text mining resource.(http://nitin-panwar.github.io/)
    * tracking NLP progress. nlpprogress.com
+   * nlp made easy.(http://gluon-nlp.mxnet.io/index.html)
    * machine translation corpus.(http://www.manythings.org/anki/) (http://www.statmt.org/wmt18/)
    * Text to RDF. (https://tw.rpi.edu/web/project/gcis-imsap/NcaTxt2Rdf)(https://wiki.dbpedia.org/textext)(http://lup.lub.lu.se/search/ws/files/3053000/3191702.pdf)(https://lawlesst.github.io/notebook/rdflib-stardog.html)
 
