@@ -34,6 +34,7 @@
    * nlp made easy.(http://gluon-nlp.mxnet.io/index.html)
    * machine translation corpus.(http://www.manythings.org/anki/) (http://www.statmt.org/wmt18/)
    * Text to RDF. (https://tw.rpi.edu/web/project/gcis-imsap/NcaTxt2Rdf)(https://wiki.dbpedia.org/textext)(http://lup.lub.lu.se/search/ws/files/3053000/3191702.pdf)(https://lawlesst.github.io/notebook/rdflib-stardog.html)
+   * Siri, Watson and Natural Language Processing.(http://isoft.postech.ac.kr/Course/Presentation/isoft_seminar_2014.pdf)
 
 # NLP (Deep Learning)
    * machine comprehension (codes are available in github) (https://arxiv.org/pdf/1705.02798v6.pdf)(https://arxiv.org/pdf/1712.03556v2.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(http://www.aclweb.org/anthology/P18-1158)(https://arxiv.org/pdf/1611.01603v6.pdf)
