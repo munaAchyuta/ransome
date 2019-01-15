@@ -1,4 +1,5 @@
 
+
 # Helpful Resources
    might be helpful for someone !!.
 
@@ -45,6 +46,11 @@
    * corpus conversion service.(ingest unstructured data and get structured representation).used R-CNN & YOLOv2. (https://arxiv.org/abs/1805.09687)
    * Universal Language Model Fine-tuning for Text Classification.(https://arxiv.org/pdf/1801.06146v5.pdf)
    * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.(https://arxiv.org/pdf/1810.04805v1.pdf)(https://www.reddit.com/r/MachineLearning/comments/9nfqxz/r_bert_pretraining_of_deep_bidirectional/)
+   * Sequential Labeling with online Deep Learning (https://arxiv.org/pdf/1412.3397v3.pdf)
+   * OnlineDeepLearning:LearningDeepNeuralNetworksontheFly(https://arxiv.org/pdf/1711.03705.pdf)
+   * Incremental Learning in Deep Convolutional Neural NetworksUsingPartialNetworkSharing(https://arxiv.org/pdf/1712.02719.pdf)
+   * Broad Learning: A paradigm shift in discriminative incremental learning(http://www.broadlearning.ai/)
+   * incremental learning image classification.(https://www.microsoft.com/en-us/research/wp-content/uploads/2014/11/Error-Driven-Incremental-Learning-in-Deep-Convolutional-Neural-Network-for-Large-Scale-Image-Classification.pdf)
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
