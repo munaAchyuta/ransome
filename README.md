@@ -51,6 +51,9 @@
    * Incremental Learning in Deep Convolutional Neural NetworksUsingPartialNetworkSharing(https://arxiv.org/pdf/1712.02719.pdf)
    * Broad Learning: A paradigm shift in discriminative incremental learning(http://www.broadlearning.ai/)
    * incremental learning image classification.(https://www.microsoft.com/en-us/research/wp-content/uploads/2014/11/Error-Driven-Incremental-Learning-in-Deep-Convolutional-Neural-Network-for-Large-Scale-Image-Classification.pdf)
+   * Deep contextualized word representations.(https://arxiv.org/pdf/1802.05365v2.pdf)
+   * Neural Architectures for Named Entity Recognition.(https://arxiv.org/pdf/1603.01360v3.pdf)
+   * Effective Use of Bidirectional Language Modeling for Transfer Learning in Biomedical Named Entity Recognition(https://arxiv.org/pdf/1711.07908.pdf)
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
