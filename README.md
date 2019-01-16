@@ -54,6 +54,7 @@
    * Deep contextualized word representations.(https://arxiv.org/pdf/1802.05365v2.pdf)
    * Neural Architectures for Named Entity Recognition.(https://arxiv.org/pdf/1603.01360v3.pdf)
    * Effective Use of Bidirectional Language Modeling for Transfer Learning in Biomedical Named Entity Recognition(https://arxiv.org/pdf/1711.07908.pdf)
+   * Label Embedding for Zero-shot Fine-grained Named Entity Typing(http://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf)
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
