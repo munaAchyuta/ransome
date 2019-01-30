@@ -11,3 +11,4 @@ embeddings to some relatively higher dimensional and discrete representations.
 * http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/
 * NER with less data -- https://arxiv.org/pdf/1806.04411.pdf
 * FREME NER TOOL -- https://freme-project.github.io/knowledge-base/freme-for-api-users/freme-ner.html
+* crf+cluster  vector+dictionary+embeddings for disease NER -- http://www.dialog-21.ru/media/3932/miftahutdinovzshetal.pdf
