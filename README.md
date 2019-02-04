@@ -32,6 +32,7 @@
 
 # NLP (Basic Features)
    * get basic featureset using stanford corenlp. https://github.com/Lynten/stanford-corenlp
+   * NLP basic tools.(http://www.cs.cmu.edu/~ark/TweetNLP/)
    * text mining resource.(http://nitin-panwar.github.io/)
    * tracking NLP progress. nlpprogress.com
    * nlp made easy.(http://gluon-nlp.mxnet.io/index.html)
