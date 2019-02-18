@@ -57,6 +57,7 @@
    * Effective Use of Bidirectional Language Modeling for Transfer Learning in Biomedical Named Entity Recognition(https://arxiv.org/pdf/1711.07908.pdf)
    * Label Embedding for Zero-shot Fine-grained Named Entity Typing(http://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf)
    * Streaming Word Embeddings with the Space-Saving Algorithm(https://arxiv.org/pdf/1704.07463.pdf)
+   * BPEmb or Byte-Pair Encoding for a subword segmentation (https://nlp.h-its.org/bpemb/)
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
