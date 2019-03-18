@@ -19,6 +19,7 @@
         * ./gdown.pl "link to file" file.mp4
    * best paper awards in computer science since 1996. (https://jeffhuang.com/best_paper_awards.html?fbclid=IwAR0mQpku2c1c_qdLr3uS15aoWdcbrrEJdUE4DJSTIewWEs4hrhYXI92r3f8)
    
+
 # website/blog by individuals on ML/NLP/DL works.
    * http://ttic.uchicago.edu/~kgimpel/papers.html
    * http://www.cs.cmu.edu/~jwieting/
@@ -71,3 +72,5 @@
    * seq2sq model for building conversational chatbot with using facebook messanger.(https://github.com/adeshpande3/Facebook-Messenger-Bot/blob/master/README.md)(https://moz.com/blog/chat-bot)(https://www.comm100.com/blog/journey-mapping-chatbot-decision-tree-from-scratch.html)(https://towardsdatascience.com/architecture-overview-of-a-conversational-ai-chat-bot-4ef3dfefd52e)(https://haptik.ai/tech/neural-conversation-model-production/)
    * deep dialogue tutorial.(https://www.csie.ntu.edu.tw/~yvchen/doc/DeepDialogue_Tutorial.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
    * cheat sheet : deep learning losses & optimizers.(https://www.hergertarian.com/cheat-sheet-deep-learning-losses-optimizers)
+   * Stiffness: ANewPerspectiveonGeneralizationinNeuralNetworks(https://arxiv.org/pdf/1901.09491v1.pdf)
+   * ToTuneorNottoTune? AdaptingPretrainedRepresentationstoDiverseTasks(https://arxiv.org/pdf/1903.05987v1.pdf)
