@@ -2,9 +2,6 @@
 
 # Helpful Resources
    might be helpful for someone !!.
-   
-   transcript_2 - m1 the euro swiss falls have collapsed for clients who want to pick up some gamma i can sell 25 september a one point twenty four euro calls four point eighty five all or one week one point 2 2 9 0 . it 's 4.0 vul how about eurobonds for euro starlee involves u.s. treasury bills have sold off brookline 's looking to pick up some kiganda i can sell one weak point paid .
-   transcript - m1 europe also sold off for clients looking to pick up some cheap gamow i can sell one week . crude oil has experienced a strong rally and has been much stronger than the s&p 500 .
 
 # USEFUL
    * to execute notebooks from github online, replace github.com with colab.research.google.com/github on notebook url.
