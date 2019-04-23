@@ -9,3 +9,4 @@
    *  Response Summarizer: An Automatic Summarization System of Call Center Conversation(https://www.slideshare.net/pfi/response-summarizer-an-automatic-summarization-system-of-call-center-conversation)
    *  Neural Extractive Text Summarization with Syntactic Compression(https://arxiv.org/pdf/1902.00863v1.pdf)
    *  Automatic Structured Text Summarization with Concept Maps(http://tuprints.ulb.tu-darmstadt.de/8430/1/PhDThesis_TobiasFalke.pdf)
+   * Towards Summarization of Written Text Conversations(https://pdfs.semanticscholar.org/8212/3b1d54436069e6e3a9462ff7d32aedf6ba58.pdf)
