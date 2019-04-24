@@ -44,6 +44,7 @@
    * topic summarization from conversation dataset using traditional NLP and ML procedures.(https://pdfs.semanticscholar.org/8212/3b1d54436069e6e3a9462ff7d32aedf6ba58.pdf)
    * data source for NLP applications.(https://sites.google.com/site/nirajatweb/home/information-retrieval-resources)(http://text-analytics101.rxnlp.com/2011/07/user-review-datasets_20.html)
    * Automatic Structured Text Summarization with Concept Maps or ~ similar to Knowledge Graph(http://tuprints.ulb.tu-darmstadt.de/8430/1/PhDThesis_TobiasFalke.pdf)
+   * NLP collective ones(https://handong1587.github.io/deep_learning/2015/10/09/nlp.html#summarization)
 
 # NLP (Deep Learning)
    * machine comprehension (codes are available in github) (https://arxiv.org/pdf/1705.02798v6.pdf)(https://arxiv.org/pdf/1712.03556v2.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(http://www.aclweb.org/anthology/P18-1158)(https://arxiv.org/pdf/1611.01603v6.pdf)
