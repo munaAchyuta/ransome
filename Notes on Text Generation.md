@@ -12,4 +12,4 @@
    * Towards Summarization of Written Text Conversations(https://pdfs.semanticscholar.org/8212/3b1d54436069e6e3a9462ff7d32aedf6ba58.pdf)
    * Abstractive and Extractive Text Summarization using DocumentContext Vector and Recurrent Neural Networks(https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_6.pdf)
    * Ranking Sentences for Extractive Summarizationwith Reinforcement Learning(https://arxiv.org/pdf/1802.08636.pdf)
-   * https://github.com/MiuLab/DialSum  https://github.com/cheng6076/NeuralSum  https://github.com/EdinburghNLP/Refresh  https://github.com/sosuperic/MeanSum
+   * https://github.com/MiuLab/DialSum , https://github.com/cheng6076/NeuralSum , https://github.com/EdinburghNLP/Refresh , https://github.com/sosuperic/MeanSum
