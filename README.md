@@ -19,6 +19,7 @@
         * ./gdown.pl "link to file" file.mp4
    * best paper awards in computer science since 1996. (https://jeffhuang.com/best_paper_awards.html?fbclid=IwAR0mQpku2c1c_qdLr3uS15aoWdcbrrEJdUE4DJSTIewWEs4hrhYXI92r3f8)
    * pytorch good sources.(https://bharathgs.github.io/Awesome-pytorch-list/)
+   * software repository for Accounting and Finance.(https://sraf.nd.edu/textual-analysis/)
    
 
 # website/blog by individuals on ML/NLP/DL works.
