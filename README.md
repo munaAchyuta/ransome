@@ -29,6 +29,7 @@
 
 ## Python
    * Deploy flask app with nginx using gunicorn and supervisor.(https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
+   * regular expression good source.(https://www.regular-expressions.info/)(https://docs.python.org/3/library/re.html)
    
 # ML
    * multi-label classification using ML models.(https://nickcdryan.com/2017/01/23/multi-label-classification-a-guided-tour/)
