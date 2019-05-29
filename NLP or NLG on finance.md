@@ -9,3 +9,4 @@
     https://www.twinword.com/blog/sentiment-analysis-for-the-financial-sector/
     https://emerj.com/ai-sector-overviews/ai-sentiment-analysis-finance-current-applications-possibilities/
     http://www.odbms.org/2017/09/handbook-of-sentiment-analysis-in-finance/
+    A Proposal for Brand Analysis with Opinion Mining.(https://www.intechopen.com/books/e-business-state-of-the-art-of-ict-based-challenges-and-solutions/a-proposal-for-brand-analysis-with-opinion-mining)
