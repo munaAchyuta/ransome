@@ -48,6 +48,8 @@
    * Automatic Structured Text Summarization with Concept Maps or ~ similar to Knowledge Graph(http://tuprints.ulb.tu-darmstadt.de/8430/1/PhDThesis_TobiasFalke.pdf)
    * NLP collective ones(https://handong1587.github.io/deep_learning/2015/10/09/nlp.html#summarization)
    * Exploiting Discourse Relations between Sentences for Text Clustering.(https://www.aclweb.org/anthology/W12-4702)
+   * Sentiment Analysis & Opinion Mining(https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf)
+
 
 # NLP (Deep Learning)
    * machine comprehension (codes are available in github) (https://arxiv.org/pdf/1705.02798v6.pdf)(https://arxiv.org/pdf/1712.03556v2.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(https://arxiv.org/pdf/1804.09541v1.pdf)(http://www.aclweb.org/anthology/P18-1158)(https://arxiv.org/pdf/1611.01603v6.pdf)
