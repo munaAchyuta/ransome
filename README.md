@@ -1,5 +1,6 @@
 
 
+
 # Helpful Resources
    might be helpful for someone !!.
 
@@ -50,6 +51,9 @@
    * Exploiting Discourse Relations between Sentences for Text Clustering.(https://www.aclweb.org/anthology/W12-4702)
    * Sentiment Analysis & Opinion Mining(https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf)
    * a benchmark comparison of state-of-the-practice sentiment analysis methods(https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0085-1)
+   * UniversalSentenceEncoder (https://arxiv.org/pdf/1803.11175v2.pdf)
+   * Dynamic Entity Representations in Neural Language Models(https://arxiv.org/pdf/1708.00781.pdf)
+   * NeuralTextGenerationinStoriesUsingEntityRepresentationsas Context (http://yangfengji.net/publication/papers/clark2018neural.pdf)
 
 
 # NLP (Deep Learning)
