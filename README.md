@@ -54,6 +54,8 @@
    * UniversalSentenceEncoder (https://arxiv.org/pdf/1803.11175v2.pdf)
    * Dynamic Entity Representations in Neural Language Models(https://arxiv.org/pdf/1708.00781.pdf)
    * NeuralTextGenerationinStoriesUsingEntityRepresentationsas Context (http://yangfengji.net/publication/papers/clark2018neural.pdf)
+   * A discourse-aware neural network-based text model for document-level text classification(https://journals.sagepub.com/doi/abs/10.1177/0165551517743644?journalCode=jisb)
+   * Automatically Evaluating Text Coherence Using Discourse Relations(http://delivery.acm.org/10.1145/2010000/2002598/p997-lin.pdf?ip=223.237.219.71&id=2002598&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1560341134_0806fa03deb3e1d386ef0b63f5b2c901)
 
 
 # NLP (Deep Learning)
