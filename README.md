@@ -79,6 +79,7 @@
    * BPEmb or Byte-Pair Encoding for a subword segmentation (https://nlp.h-its.org/bpemb/)
    * Robust Lexical Features for Improved Neural Network Named-Entity Recognition.(https://arxiv.org/pdf/1806.03489v1.pdf)(https://github.com/ghaddarAbs/NER-with-LS)
    * Opinion Mining with Deep Contextualized Embeddings (https://www.aclweb.org/anthology/N19-3006)
+   * Large Scale Question Paraphrase Retrieval withSmoothed Deep Metric Learning(https://arxiv.org/pdf/1905.12786v1.pdf)
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
