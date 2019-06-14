@@ -81,6 +81,7 @@
    * Opinion Mining with Deep Contextualized Embeddings (https://www.aclweb.org/anthology/N19-3006)
    * Large Scale Question Paraphrase Retrieval withSmoothed Deep Metric Learning(https://arxiv.org/pdf/1905.12786v1.pdf)
    * Variational Pretraining for Semi-supervised Text Classification (https://arxiv.org/pdf/1906.02242v1.pdf)
+   * Deep Learning for Sentiment Analysis: A Survey(https://arxiv.org/pdf/1801.07883v2.pdf)
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
