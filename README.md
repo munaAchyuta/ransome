@@ -1,6 +1,3 @@
-
-
-
 # Helpful Resources
    might be helpful for someone !!.
 
@@ -27,6 +24,8 @@
    * http://ttic.uchicago.edu/~kgimpel/papers.html
    * http://www.cs.cmu.edu/~jwieting/
    * https://people.cs.umass.edu/~miyyer/
+   * https://veredshwartz.blogspot.com/2018/08/deep-learning-in-nlp.html
+   * https://basmaboussaha.wordpress.com/author/besmati/
 
 ## Python
    * Deploy flask app with nginx using gunicorn and supervisor.(https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
