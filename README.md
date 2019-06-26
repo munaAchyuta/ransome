@@ -48,6 +48,7 @@
    * Automatic Structured Text Summarization with Concept Maps or ~ similar to Knowledge Graph(http://tuprints.ulb.tu-darmstadt.de/8430/1/PhDThesis_TobiasFalke.pdf)
    * NLP collective ones(https://handong1587.github.io/deep_learning/2015/10/09/nlp.html#summarization)
    * Exploiting Discourse Relations between Sentences for Text Clustering.(https://www.aclweb.org/anthology/W12-4702)
+   * APPLICATION OF RHETORICAL RELATIONS BETWEEN SENTENCES TO CLUSTER-BASED TEXT SUMMARIZATION(https://airccj.org/CSCP/vol5/csit53307.pdf)
    * Sentiment Analysis & Opinion Mining(https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf)
    * a benchmark comparison of state-of-the-practice sentiment analysis methods(https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0085-1)
    * UniversalSentenceEncoder (https://arxiv.org/pdf/1803.11175v2.pdf)
