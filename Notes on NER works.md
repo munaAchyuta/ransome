@@ -14,3 +14,4 @@ embeddings to some relatively higher dimensional and discrete representations.
 * crf+cluster  vector+dictionary+embeddings for disease NER -- http://www.dialog-21.ru/media/3932/miftahutdinovzshetal.pdf
 * ultra fine entity typing.(http://nlp.cs.washington.edu/entity_type/slides.pdf)(https://github.com/uwnlp/open_type#eusol-choi-omer-levy-yejin-choi-and-luke-zettlemoyer-acl-2018)
 * Fine-Grained Entity Typing in Hyperbolic Space (https://github.com/nlpAThits/figet-hyperbolic-space)
+* Fine-grained Entity Typing through Increased Discourse Contextand Adaptive Classification Thresholds (https://arxiv.org/pdf/1804.08000v1.pdf)
