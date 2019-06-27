@@ -12,3 +12,5 @@ embeddings to some relatively higher dimensional and discrete representations.
 * NER with less data -- https://arxiv.org/pdf/1806.04411.pdf
 * FREME NER TOOL -- https://freme-project.github.io/knowledge-base/freme-for-api-users/freme-ner.html
 * crf+cluster  vector+dictionary+embeddings for disease NER -- http://www.dialog-21.ru/media/3932/miftahutdinovzshetal.pdf
+* ultra fine entity typing.(http://nlp.cs.washington.edu/entity_type/slides.pdf)(https://github.com/uwnlp/open_type#eusol-choi-omer-levy-yejin-choi-and-luke-zettlemoyer-acl-2018)
+* Fine-Grained Entity Typing in Hyperbolic Space (https://github.com/nlpAThits/figet-hyperbolic-space)
