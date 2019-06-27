@@ -59,6 +59,7 @@
    * Automatically Evaluating Text Coherence Using Discourse Relations(http://delivery.acm.org/10.1145/2010000/2002598/p997-lin.pdf?ip=223.237.219.71&id=2002598&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1560341134_0806fa03deb3e1d386ef0b63f5b2c901)(http://dspace.dtu.ac.in:8080/jspui/bitstream/repository/14260/1/Rajiv_Final_Thesis-1.pdf)
    * Hybrid Approach for Single Text Document Summarization using Statistical and Sentiment Features(https://arxiv.org/pdf/1601.00643v1.pdf)
    * CS918: Natural Language Processing Revision Booklet(https://warwick.ac.uk/fac/sci/mathsys/people/students/2017intake/edoardo-barp/nlp_summary.pdf)
+   * coreference & coherence (http://courses.washington.edu/ling571/ling571_WIN2017/slides/ling571_class16_coref_dstruct_flat.pdf)
 
 
 # NLP (Deep Learning)
