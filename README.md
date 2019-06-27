@@ -61,6 +61,7 @@
    * CS918: Natural Language Processing Revision Booklet(https://warwick.ac.uk/fac/sci/mathsys/people/students/2017intake/edoardo-barp/nlp_summary.pdf)
    * coreference & coherence (http://courses.washington.edu/ling571/ling571_WIN2017/slides/ling571_class16_coref_dstruct_flat.pdf)
    * Extending and Exploiting the Entity Graphfor Analysis, Classification and Visualization of German Texts(https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/konvens18_15.pdf)
+   * Entropy and Graph Based Modelling of DocumentCoherence using Discourse Entities: An Application to IR (https://arxiv.org/pdf/1507.08234v1.pdf)
 
 
 # NLP (Deep Learning)
