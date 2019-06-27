@@ -60,6 +60,7 @@
    * Hybrid Approach for Single Text Document Summarization using Statistical and Sentiment Features(https://arxiv.org/pdf/1601.00643v1.pdf)
    * CS918: Natural Language Processing Revision Booklet(https://warwick.ac.uk/fac/sci/mathsys/people/students/2017intake/edoardo-barp/nlp_summary.pdf)
    * coreference & coherence (http://courses.washington.edu/ling571/ling571_WIN2017/slides/ling571_class16_coref_dstruct_flat.pdf)
+   * Extending and Exploiting the Entity Graphfor Analysis, Classification and Visualization of German Texts(https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/konvens18_15.pdf)
 
 
 # NLP (Deep Learning)
