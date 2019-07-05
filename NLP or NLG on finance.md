@@ -10,4 +10,6 @@
    * https://emerj.com/ai-sector-overviews/ai-sentiment-analysis-finance-current-applications-possibilities/
    * http://www.odbms.org/2017/09/handbook-of-sentiment-analysis-in-finance/
    * A Proposal for Brand Analysis with Opinion Mining.(https://www.intechopen.com/books/e-business-state-of-the-art-of-ict-based-challenges-and-solutions/a-proposal-for-brand-analysis-with-opinion-mining)
+   * Stock Market Analysis: A Review and Taxonomy of Prediction Techniques (https://www.mdpi.com/2227-7072/7/2/26/htm)
+   * Targeted Cross-Lingual Sentiment Analysis(https://arxiv.org/pdf/1906.10519v1.pdf)
 
