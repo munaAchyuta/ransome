@@ -1,0 +1,3 @@
+Tesseract for image to text.
+cropping image using ocrmypdf.
+detect tables using camelot(works good when tables with visible lines).
