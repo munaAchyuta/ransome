@@ -1,0 +1,2 @@
+Facebook Has Been Quietly Open Sourcing Some Amazing Deep Learning Capabilities for PyTorch:
+*) The new release of PyTorch goes beyond improving the core capabilities of the framework and bring state-of-the-art research to deep learning developers. Projects like Captum, Detectron2 and Crypten complement the core PyTorch stack and helps to bridge the gap between research and production deep learning systems.
