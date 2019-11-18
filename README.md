@@ -37,6 +37,7 @@
    * multi-label classification using ML models.(https://nickcdryan.com/2017/01/23/multi-label-classification-a-guided-tour/)
    * Lagrangian, duality & Convex Optimization (https://nisheethvishnoi.files.wordpress.com/2018/05/lecture12.pdf)
    * https://skymind.ai/wiki/attention-mechanism-memory-network
+   * https://github.com/abhinavsagar
 
 # NLP (Basic Features)
    * get basic featureset using stanford corenlp. https://github.com/Lynten/stanford-corenlp
