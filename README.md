@@ -109,3 +109,4 @@
    * cheat sheet : deep learning losses & optimizers.(https://www.hergertarian.com/cheat-sheet-deep-learning-losses-optimizers)
    * Stiffness: ANewPerspectiveonGeneralizationinNeuralNetworks(https://arxiv.org/pdf/1901.09491v1.pdf)
    * ToTuneorNottoTune? AdaptingPretrainedRepresentationstoDiverseTasks(https://arxiv.org/pdf/1903.05987v1.pdf)
+   * self learning for supervised learning(https://arxiv.org/pdf/1911.04252.pdf)
