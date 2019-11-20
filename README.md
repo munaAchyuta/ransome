@@ -20,6 +20,7 @@
    * pytorch good sources.(https://bharathgs.github.io/Awesome-pytorch-list/)
    * software repository for Accounting and Finance.(https://sraf.nd.edu/textual-analysis/)
    * some good resources for NLP app building.(https://github.com/makcedward/nlp)
+   * Discover open source deep learning code and pretrained models.(https://modelzoo.co/)
    
 
 # website/blog by individuals on ML/NLP/DL works.
