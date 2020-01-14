@@ -1,6 +1,7 @@
 ## Anomaly Detection & Event Correlation:
   1. https://github.com/numenta/NAB
   2. https://github.com/linkedin/luminol/
+  3. STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks (https://github.com/TDAmeritrade/stumpy)
 
 ## Anomaly Detection Resources: 
   1. https://github.com/yzhao062/anomaly-detection-resources
