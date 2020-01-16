@@ -21,6 +21,8 @@
    * software repository for Accounting and Finance.(https://sraf.nd.edu/textual-analysis/)
    * some good resources for NLP app building.(https://github.com/makcedward/nlp)
    * Discover open source deep learning code and pretrained models.(https://modelzoo.co/)
+   * application development practices : The twleve factor app. (https://12factor.net/)
+   * Kubernetes Best Practices. https://learnk8s.io/production-best-practices
    
 
 # website/blog by individuals on ML/NLP/DL works.
