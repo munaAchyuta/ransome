@@ -23,6 +23,7 @@
    * Discover open source deep learning code and pretrained models.(https://modelzoo.co/)
    * application development practices : The twleve factor app. (https://12factor.net/)
    * Kubernetes Best Practices. https://learnk8s.io/production-best-practices
+   * Modern Software application patterns. Book(Patterns of Enterprise Application Architecture & Refactoring by Martin Fowler)
    
 
 # website/blog by individuals on ML/NLP/DL works.
