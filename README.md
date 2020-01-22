@@ -24,6 +24,7 @@
    * application development practices : The twleve factor app. (https://12factor.net/)
    * Kubernetes Best Practices. https://learnk8s.io/production-best-practices
    * Modern Software application patterns. Book(Patterns of Enterprise Application Architecture & Refactoring by Martin Fowler)
+   * Install skype through Lync in Ubuntu(https://linuxsagas.digitaleagle.net/2014/01/14/using-microsoft-lync-with-ubuntu/)
    
 
 # website/blog by individuals on ML/NLP/DL works.
