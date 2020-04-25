@@ -15,3 +15,4 @@
    * https://github.com/MiuLab/DialSum , https://github.com/cheng6076/NeuralSum , https://github.com/EdinburghNLP/Refresh , https://github.com/sosuperic/MeanSum
    * ABSTRACTIVE DIALOGUE SUMMARIZATION WITHSENTENCE-GATED MODELING OPTIMIZED BY DIALOGUE ACTS(https://arxiv.org/pdf/1809.05715v2.pdf)
    * https://github.com/BarakOshri/TextualReconstructor , 
+   * http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
