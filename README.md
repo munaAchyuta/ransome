@@ -33,6 +33,9 @@
    * https://people.cs.umass.edu/~miyyer/
    * https://veredshwartz.blogspot.com/2018/08/deep-learning-in-nlp.html
    * https://basmaboussaha.wordpress.com/author/besmati/
+   * https://pierpaolo28.github.io/blog/?source=post_page---------------------------
+   * https://www.pyimagesearch.com/
+   * 
 
 ## Python
    * Deploy flask app with nginx using gunicorn and supervisor.(https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
