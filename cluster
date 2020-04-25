@@ -1,3 +1,9 @@
+## What are some fast and solid clustering algorithms for text?
+  * I have found aggolomerative clustering yields decent results when I specify a distance threshold with the 'cosine' affinity. This does get quite slow the larger the dataset however runs quite quick for samples of N = 2000 on embeddings (BERT or Universal Sentence Encoder) and usually gives a good picture of the distribution of the dataset.
+  * The difficulty with text is that no unsupervised approach is going to perfectly segment your data, especially when you are dealing a collection of domain specific texts.
+
+
+## Example data.
 text = '''Let's start out for number one the first company that you're looking forward to and what are you looking for in that report?
 The first one is Manpower, which is a huge, temporary staffing organization. In this report, I'm less interested in actually Manpower's earnings, and more interested in what they have to say about the state of the labor market. One of the big unanswered questions in this economic recovery is when will jobs return?
 Because without jobs, we're still going to have problems with consumer spending; we're still going to have problems with people not being able to pay their mortgages. I think that Manpower usually has some pretty good insights as to what's happening in the labor market and what they think is going to happen in the future.
