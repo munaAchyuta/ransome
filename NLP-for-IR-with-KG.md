@@ -6,5 +6,6 @@
   https://www.aclweb.org/anthology/D19-3004.pdf --- Applying BERT to Document Retrieval with Birch
   https://www.aclweb.org/anthology/D19-1371.pdf --- SCIBERT: A Pretrained Language Model for Scientific Text
   https://arxiv.org/pdf/2004.14843.pdf --- Knowledge Graph Embeddings and Explainable AI
+  https://arxiv.org/pdf/2002.06305.pdf --- Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping
   
   
