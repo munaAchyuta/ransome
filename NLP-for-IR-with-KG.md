@@ -9,5 +9,6 @@
   https://arxiv.org/pdf/2002.06305.pdf --- Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping
   https://arxiv.org/pdf/2004.12190.pdf --- Towards Discourse Parsing-inspired Semantic Storytelling
   https://github.com/malteos/awesome-document-similarity --- Awesome Document Similarity Measures
+  https://notebooks.quantumstat.com/ --- The Super Duper NLP Repo
   
   
