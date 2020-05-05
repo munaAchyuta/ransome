@@ -25,6 +25,7 @@
    * Kubernetes Best Practices. https://learnk8s.io/production-best-practices
    * Modern Software application patterns. Book(Patterns of Enterprise Application Architecture & Refactoring by Martin Fowler)
    * Install skype through Lync in Ubuntu(https://linuxsagas.digitaleagle.net/2014/01/14/using-microsoft-lync-with-ubuntu/)
+   * software basics learning - https://www.tebs-lab.com/education
    
 
 # website/blog by individuals on ML/NLP/DL works.
