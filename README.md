@@ -26,6 +26,7 @@
    * Modern Software application patterns. Book(Patterns of Enterprise Application Architecture & Refactoring by Martin Fowler)
    * Install skype through Lync in Ubuntu(https://linuxsagas.digitaleagle.net/2014/01/14/using-microsoft-lync-with-ubuntu/)
    * software basics learning - https://www.tebs-lab.com/education (https://github.com/Tebs-Lab)
+   * Bayesian Optimization - https://distill.pub/2020/bayesian-optimization/
    
 
 # website/blog by individuals on ML/NLP/DL works.
