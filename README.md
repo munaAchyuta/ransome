@@ -27,6 +27,9 @@
    * Install skype through Lync in Ubuntu(https://linuxsagas.digitaleagle.net/2014/01/14/using-microsoft-lync-with-ubuntu/)
    * software basics learning - https://www.tebs-lab.com/education (https://github.com/Tebs-Lab)
    * Bayesian Optimization - https://distill.pub/2020/bayesian-optimization/
+   * open source chatbot - https://github.com/olivia-ai/olivia/blob/master/README.md
+   * Parallel Hyperparameter Optimization in Python - https://github.com/ARM-software/mango
+   * 
    
 
 # website/blog by individuals on ML/NLP/DL works.
@@ -105,6 +108,7 @@
    * Variational Pretraining for Semi-supervised Text Classification (https://arxiv.org/pdf/1906.02242v1.pdf)
    * Deep Learning for Sentiment Analysis: A Survey(https://arxiv.org/pdf/1801.07883v2.pdf)
    * Parameter-Efficient Transfer Learning for NLP(https://arxiv.org/pdf/1902.00751.pdf)
+   * The Annotated Transformer (https://nlp.seas.harvard.edu/2018/04/03/attention.html#)
    
 # NN Models
    * tutorial on variational autoencoder.(https://arxiv.org/pdf/1606.05908v2.pdf) (blog - http://kvfrans.com/variational-autoencoders-explained/)
