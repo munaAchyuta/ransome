@@ -64,6 +64,7 @@
    * https://github.com/abhinavsagar
    * Credit Risk Model Monitoring (https://www.accenture.com/gb-en/~/media/accenture/conversion%20assets/dotcom/documents/global/pdf/dualpub_7/accenture-credit-risk-model-monitoring.pdf)
    * model evaluation error metrics.(https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
+   * contineous model monitoring(https://www.pwc.com/gx/en/financial-services/pdf/fs-model-monitoring.pdf)
 
 # NLP (Basic Features)
    * get basic featureset using stanford corenlp. https://github.com/Lynten/stanford-corenlp
