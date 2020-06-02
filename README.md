@@ -62,6 +62,8 @@
    * Lagrangian, duality & Convex Optimization (https://nisheethvishnoi.files.wordpress.com/2018/05/lecture12.pdf)
    * https://skymind.ai/wiki/attention-mechanism-memory-network
    * https://github.com/abhinavsagar
+   * Credit Risk Model Monitoring (https://www.accenture.com/gb-en/~/media/accenture/conversion%20assets/dotcom/documents/global/pdf/dualpub_7/accenture-credit-risk-model-monitoring.pdf)
+   * model evaluation error metrics.(https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
 
 # NLP (Basic Features)
    * get basic featureset using stanford corenlp. https://github.com/Lynten/stanford-corenlp
