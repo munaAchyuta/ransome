@@ -31,6 +31,9 @@
    * Parallel Hyperparameter Optimization in Python - https://github.com/ARM-software/mango
    * 
    
+# Useful NLP Sources
+   * https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482?v=722708f7a2ee4fbfae92e777ef2a3ec1
+   * zero shot learning(https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 
 # website/blog by individuals on ML/NLP/DL works.
    * http://ttic.uchicago.edu/~kgimpel/papers.html
