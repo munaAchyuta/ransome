@@ -31,7 +31,7 @@
    * Parallel Hyperparameter Optimization in Python - https://github.com/ARM-software/mango
    * Introduction to Linear Algebra for Applied Machine Learning with Python(https://pabloinsente.github.io/intro-linear-algebra)
    * The Annotated Transformer(https://nlp.seas.harvard.edu/2018/04/03/attention.html#)
-   * 
+   * ONNX is open format for machine learning models. It allows to save your neural network's computation graph in a framework agnostic way, which might be particulary helpful when deploying deep learning models.(https://github.com/huggingface/transformers/blob/master/notebooks/04-onnx-export.ipynb)
    
 # Useful NLP Sources
    * https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482?v=722708f7a2ee4fbfae92e777ef2a3ec1
