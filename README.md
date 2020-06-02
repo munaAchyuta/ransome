@@ -29,6 +29,8 @@
    * Bayesian Optimization - https://distill.pub/2020/bayesian-optimization/
    * open source chatbot - https://github.com/olivia-ai/olivia/blob/master/README.md
    * Parallel Hyperparameter Optimization in Python - https://github.com/ARM-software/mango
+   * Introduction to Linear Algebra for Applied Machine Learning with Python(https://pabloinsente.github.io/intro-linear-algebra)
+   * The Annotated Transformer(https://nlp.seas.harvard.edu/2018/04/03/attention.html#)
    * 
    
 # Useful NLP Sources
