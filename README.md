@@ -34,6 +34,10 @@
 # Useful NLP Sources
    * https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482?v=722708f7a2ee4fbfae92e777ef2a3ec1
    * zero shot learning(https://joeddav.github.io/blog/2020/05/29/ZSL.html)
+   * zero shot learning notebook (https://colab.research.google.com/github/joeddav/blog/blob/master/_notebooks/2020-05-29-ZSL.ipynb)
+   * Meta-Graph: Few Shot Link Prediction via Meta Learning(https://arxiv.org/abs/1912.09867)
+   * what lies in word embeddings(https://rasahq.github.io/whatlies/)
+   * 
 
 # website/blog by individuals on ML/NLP/DL works.
    * http://ttic.uchicago.edu/~kgimpel/papers.html
