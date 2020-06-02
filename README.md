@@ -39,6 +39,7 @@
    * zero shot learning notebook (https://colab.research.google.com/github/joeddav/blog/blob/master/_notebooks/2020-05-29-ZSL.ipynb)
    * Meta-Graph: Few Shot Link Prediction via Meta Learning(https://arxiv.org/abs/1912.09867)
    * what lies in word embeddings(https://rasahq.github.io/whatlies/)
+   * Google Unveils TAPAS, a BERT-Based Neural Network for Querying Tables Using Natural Language(https://www.kdnuggets.com/2020/05/google-tapas-bert-neural-network-querying-natural-language.html)
    * 
 
 # website/blog by individuals on ML/NLP/DL works.
