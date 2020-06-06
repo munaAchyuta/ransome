@@ -41,7 +41,7 @@
    * Meta-Graph: Few Shot Link Prediction via Meta Learning(https://arxiv.org/abs/1912.09867)
    * what lies in word embeddings(https://rasahq.github.io/whatlies/)
    * Google Unveils TAPAS, a BERT-Based Neural Network for Querying Tables Using Natural Language(https://www.kdnuggets.com/2020/05/google-tapas-bert-neural-network-querying-natural-language.html)
-   * 
+   * Spelling Error Correction.(https://github.com/hiyoung123/SoftMaskedBert)
 
 # website/blog by individuals on ML/NLP/DL works.
    * http://ttic.uchicago.edu/~kgimpel/papers.html
@@ -96,6 +96,7 @@
    * Extending and Exploiting the Entity Graphfor Analysis, Classification and Visualization of German Texts(https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/konvens18_15.pdf)
    * Entropy and Graph Based Modelling of DocumentCoherence using Discourse Entities: An Application to IR (https://arxiv.org/pdf/1507.08234v1.pdf)
    * opinion mining and sentiment analysis (http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)
+   * Hyperparameter Tuning with keras Tuner.(https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
 
 
 # NLP (Deep Learning)
