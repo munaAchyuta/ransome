@@ -54,6 +54,11 @@
    * https://www.pyimagesearch.com/
    * https://ryanong.co.uk/natural-language-processing-365/      -- cool work. look for this.
    * http://gabrielilharco.com/
+# website/blog by individuals for setting up of cloud or distributed applications like kuberenetes, kafka, spark..
+   * https://blog.jreypo.io/
+   *
+   *
+   
 
 ## Python
    * Deploy flask app with nginx using gunicorn and supervisor.(https://medium.com/ymedialabs-innovation/deploy-flask-app-with-nginx-using-gunicorn-and-supervisor-d7a93aa07c18)
